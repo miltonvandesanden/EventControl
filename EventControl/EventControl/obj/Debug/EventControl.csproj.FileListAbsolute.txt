@@ -1,0 +1,5 @@
+C:\Users\Milton\Documents\GitHub\EventControl\EventControl\EventControl\bin\EventControl.dll.config
+C:\Users\Milton\Documents\GitHub\EventControl\EventControl\EventControl\bin\EventControl.dll
+C:\Users\Milton\Documents\GitHub\EventControl\EventControl\EventControl\bin\EventControl.pdb
+C:\Users\Milton\Documents\GitHub\EventControl\EventControl\EventControl\obj\Debug\EventControl.dll
+C:\Users\Milton\Documents\GitHub\EventControl\EventControl\EventControl\obj\Debug\EventControl.pdb
